@@ -6,12 +6,11 @@ import Social from './Social'
 
 function App(){
     return(
-      <h1>hello</h1>
-        /*<div className="container">
+        <div className="container">
             <Header />
             <Text />
             <Social />
-        </div>*/
+        </div>
     )
 }
 
